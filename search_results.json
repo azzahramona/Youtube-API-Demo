@@ -1,0 +1,58 @@
+{
+  "Python tutorial": [
+    {
+      "video_id": "rfscVS0vtbw",
+      "title": "Learn Python - Full Course for Beginners [Tutorial]",
+      "channel": "freeCodeCamp.org",
+      "views": 47541499,
+      "published": "2018-07-11",
+      "thumbnail_url": "https://i.ytimg.com/vi/rfscVS0vtbw/hqdefault.jpg"
+    },
+    {
+      "video_id": "8DvywoWv6fI",
+      "title": "Python for Everybody - Full University Python Course",
+      "channel": "freeCodeCamp.org",
+      "views": 7390335,
+      "published": "2019-05-02",
+      "thumbnail_url": "https://i.ytimg.com/vi/8DvywoWv6fI/hqdefault.jpg"
+    }
+  ],
+  "Power BI tips": [
+    {
+      "video_id": "AGrl-H87pRU",
+      "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
+      "channel": "Avi Singh - PowerBIPro",
+      "views": 5706623,
+      "published": "2019-05-01",
+      "thumbnail_url": "https://i.ytimg.com/vi/AGrl-H87pRU/hqdefault.jpg"
+    }
+  ],
+  "learn SQL": [
+    {
+      "video_id": "HXV3zeQKqGY",
+      "title": "SQL Tutorial - Full Database Course for Beginners",
+      "channel": "freeCodeCamp.org",
+      "views": 19967413,
+      "published": "2018-07-02",
+      "thumbnail_url": "https://i.ytimg.com/vi/HXV3zeQKqGY/hqdefault.jpg"
+    }
+  ],
+  "marketing 101": [
+    {
+      "video_id": "ZYw52nVZl_0",
+      "title": "Understanding Marketing Basics For Businesses | Marketing 101",
+      "channel": "Adam Erhart",
+      "views": 282052,
+      "published": "2019-11-01",
+      "thumbnail_url": "https://i.ytimg.com/vi/c2PzLGIz6O0/hqdefault.jpg"
+    },
+    {
+      "video_id": "8Sj2tbh-ozE&t=97s",
+      "title": "Introduction To Marketing | Marketing 101",
+      "channel": "Adam Erhart",
+      "views": 762496,
+      "published": "2019-10-22",
+      "thumbnail_url": "https://i.ytimg.com/vi/5v3nn9N0p5s/hqdefault.jpg"
+    }
+  ]
+}
